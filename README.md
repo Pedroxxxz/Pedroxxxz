@@ -1,24 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Pedro&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Pedroxxxz">
-    <img src="https://komarev.com/ghpvc/?username=Pedroxxxz&label=Profile%20views&color=00FFFF&style=flat-square" alt="Pedroxxxz's profile views" />
-  </a>
-</p>
-
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Pedroxxxz">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pedroxxxz&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Pedroxxxz's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Pedroxxxz&theme=radical&hide_border=true&cache_seconds=86400" alt="Pedroxxxz's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Pedroxxxz&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Pedro's GitHub Trophies" />
-</p>
-
 
 ## 🛠️ Languages & Tools
 
@@ -46,12 +28,6 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
 
-</p>
-
-<p align="center">
-  <a href="https://github.com/Pedroxxxz">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pedroxxxz&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
 </p>
 
 ## 🔗 Connect with Me
